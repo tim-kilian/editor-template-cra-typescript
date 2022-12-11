@@ -1,7 +1,7 @@
 {
-  "name": "standard-notes-editor-template-cra-typescript",
+  "name": "standard-notes-editor-template-vite-typescript",
   "version": "0.1.0",
-  "description": "Template for building editors for Standard Notes using Create React App and TypeScript",
+  "description": "Template for building editors for Standard Notes using Vite and TypeScript",
   "keywords": [
     "Standard Notes",
     "Standard Notes Extensions"

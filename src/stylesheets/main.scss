@@ -1,4 +1,4 @@
-@import '~@standardnotes/stylekit/dist/stylekit.css';
+@import '@standardnotes/stylekit/dist/stylekit.css';
 
 :root {
   --sn-stylekit-font-size-editor: 16px;
@@ -73,7 +73,7 @@ code {
 }
 
 p {
-  padding: 0px 1em;
+  padding: 0 1em;
 }
 
 @import './print.scss';
